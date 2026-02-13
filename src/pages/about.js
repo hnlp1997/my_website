@@ -63,11 +63,10 @@ export default function About() {
                 <p>
                   My name is <span className="font-bold">Nam</span>, nice to meet
                   you! I’m {getAge()} years old and was born and raised in San
-                  Jose, CA. I recently graduated w/ a Master's in Business
-                  Analytics at Santa Clara University in June 2024. In my free
-                  time, I love learning Spanish, watching anime, DJing, playing
+                  Jose, CA. In my free
+                  time, I love learning Spanish, watching anime, DJ'ing, playing
                   racket sports, building puzzles, thrifting, and spending time
-                  with my friends and family! •‿•
+                  with my friends and family. Life is Good! •‿•
                 </p>
 
                 <p className="flex underline">
@@ -79,7 +78,7 @@ export default function About() {
                     "LuuPham" is a combination of my parents' last names
                   </li>
                   <li className="-ml-2">
-                    NMIXX, TWICE, G Jones, Bladee, Porter Robinson
+                    NMIXX, TWICE, G Jones, Bladee, & Porter Robinson
                   </li>
                   <li className="-ml-2">
                     Favorite anime: K-ON!, Ouran, Ping Pong, Kaguya-sama
@@ -94,7 +93,7 @@ export default function About() {
                     >
                       eBay
                     </a>
-                    , and{" "}
+                    and{" "}
                     <a
                       href="https://www.grailed.com/xailai"
                       target="_blank"
