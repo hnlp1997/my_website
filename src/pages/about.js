@@ -93,7 +93,7 @@ export default function About() {
                     >
                       eBay
                     </a>
-                    and{" "}
+                     and{" "}
                     <a
                       href="https://www.grailed.com/xailai"
                       target="_blank"
