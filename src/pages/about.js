@@ -79,7 +79,7 @@ export default function About() {
                     "LuuPham" is a combination of my parents' last names
                   </li>
                   <li className="-ml-2">
-                    NMIXX, TWICE, G Jones, Bladee, and Porter Robinson
+                    NMIXX, TWICE, G Jones, Bladee, Porter Robinson
                   </li>
                   <li className="-ml-2">
                     Favorite anime: K-ON!, Ouran, Ping Pong, Kaguya-sama
